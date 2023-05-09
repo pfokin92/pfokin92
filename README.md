@@ -1,6 +1,6 @@
 ### Hi there 👋
+![large](https://github.com/pfokin92/pfokin92/assets/49921254/93648e62-34d3-48f2-aeee-3bdb41340ac0)
 
-https://www.codewars.com/users/pfokin92/badges/large
 
 <!--
 **pfokin92/pfokin92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
