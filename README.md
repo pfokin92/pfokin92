@@ -1,5 +1,5 @@
 ### Hi there 👋
-![large](https://github.com/pfokin92/pfokin92/assets/49921254/93648e62-34d3-48f2-aeee-3bdb41340ac0)
+
 
 
 <!--
